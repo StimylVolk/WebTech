@@ -1,0 +1,29 @@
+html, body {
+    background: #abb8c3;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+body {
+    background: white;
+    width: 1024px;
+    margin: auto; 
+    padding: 20px;  
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    
+}
+h2 {
+    font-size: 28px;
+}
+
+img {
+    display: block;
+    margin:0 auto;
+}
